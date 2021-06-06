@@ -16,4 +16,3 @@ client/node_modules
 #.env
 /server/venv
 /client/dist
-client/dist/*
