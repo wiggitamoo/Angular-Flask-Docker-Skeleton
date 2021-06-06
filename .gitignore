@@ -16,3 +16,4 @@ client/node_modules
 #.env
 /server/venv
 /client/dist
+.vscode/
