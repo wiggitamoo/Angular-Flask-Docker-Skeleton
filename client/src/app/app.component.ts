@@ -7,7 +7,7 @@ import {AppService} from './app.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'App!!';
+  title = 'Resource Manager';
   msg: string;
 
   constructor(private appService: AppService) {
