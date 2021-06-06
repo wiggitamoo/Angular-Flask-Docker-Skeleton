@@ -16,5 +16,4 @@ client/node_modules
 #.env
 /server/venv
 /client/dist
-client/dist/main-es5.d327221528e27c92254b.js
-client/dist/index.html
+client/dist/*
